@@ -69,7 +69,7 @@ R_Motor.start(0)
 speedSet = 50
 
 def main():
-    camera = cv2.VideoCapture(-1)
+    camera = cv2.VideoCapture(-1)   # 카메라를 비디오 입력으로 사용. -1은 기본 설정 
     camera.set(3, 640)
     camera.set(4, 480)
     filepath = "/home/pi/Desktop/imageSet/none" # save location
