@@ -1,2 +1,3 @@
 물체 감지 깃허브 주소 : https://github.com/tensorflow/models/tree/master/research/object_detection
 SSD Mobilenet 환경 셋팅 및 데이터 학습 진행 : https://settembre.tistory.com/471
+opencv object tracking : https://livecodestream.dev/post/object-tracking-with-opencv/
